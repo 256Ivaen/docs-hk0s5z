@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-625a9m.pulaucuansite.com/sitemap.xml
